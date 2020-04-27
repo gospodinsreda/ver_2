@@ -5,3 +5,5 @@ sudo apt-get install x11-utils
 sudo apt-get install firefox
 sudo apt-get install firefox-geckodriver
 sudo apt-get install tesseract-ocr
+sudo apt-get install apache2
+sudo mkdir /var/www/html/files/
