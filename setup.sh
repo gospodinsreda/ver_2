@@ -8,3 +8,6 @@ sudo apt-get install tesseract-ocr
 sudo apt-get install apache2
 sudo mkdir /var/www/html/files/
 pip3 install selenium
+pip3 install bs4
+pip3 install pytesseract
+pip3 install pytelegrambotapi
