@@ -11,3 +11,4 @@ pip3 install selenium
 pip3 install bs4
 pip3 install pytesseract
 pip3 install pytelegrambotapi
+pip3 install pysocks
